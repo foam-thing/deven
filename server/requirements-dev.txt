@@ -1,0 +1,8 @@
+# optional (for dev)
+pytest==7.1.2
+coverage==6.4.1
+setuptools==58.1.0
+autopep8==1.6.0
+
+# install server itself as editable
+-e .
