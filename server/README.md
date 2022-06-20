@@ -1,5 +1,7 @@
 # Learn Flask
 
+https://github.com/bndr/pipreqs
+
 `python -m venv venv`
 
 `pip install -r requirements.txt`
